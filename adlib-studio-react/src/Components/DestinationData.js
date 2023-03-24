@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import image1 from "../assets/bookshelf.jpg"
 import image2 from "../assets/bookshelfgarden.jpg"
 import image3 from "../assets/bookwcoffee.jpg"
-import image4 from "../assets/bookshelf.jpg"
 import "./DestinationStyles.css"
 
 class DestinationData extends Component{
